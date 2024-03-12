@@ -1,2 +1,2 @@
-# basic-android-kotlin-compose-training-dessert-clicker-starter012
+<img src=n1.PNG><img src=n2.PNG>สถานะ onCreate เมื่อเปิดแอพขึ้นมา<img src=n3.PNG>สถานะ onStart เมื่อเปิดแอพขึ้นมา<img src=n4.PNG>สถานะ onResume เมื่อเปิดแอพขึ้นมา<img src=n5.PNG>สถานะ onPause เมื่อออกจากโปรแกรม<img src=n6.PNG>สถานะ onRestart เมื่อกลับเข้ามาใช้งานแอพเหมือนเดิม<img src=n7.PNG>สถานะ onStop เมื่อปิดโปรแกรมและไปเปิดโปรแกรมอื่น<img src=n8.PNG>สถานะ onDestroy เมื่อเลื่อนปัดหน้าจอปิดใช้งานโปรแกรม# basic-android-kotlin-compose-training-dessert-clicker-starter012
  แอพกดเค้ก
