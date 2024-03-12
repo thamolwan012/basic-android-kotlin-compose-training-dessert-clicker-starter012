@@ -1,2 +1,2 @@
-<img src=n1.png><img src=n2.png>สถานะ onCreate เมื่อเปิดแอพขึ้นมา<img src=n3.png>สถานะ onStart เมื่อเปิดแอพขึ้นมา<img src=n4.png>สถานะ onResume เมื่อเปิดแอพขึ้นมา<img src=n5.png>สถานะ onPause เมื่อออกจากโปรแกรม<img src=n6.png>สถานะ onRestart เมื่อกลับเข้ามาใช้งานแอพเหมือนเดิม<img src=n7.png>สถานะ onStop เมื่อปิดโปรแกรมและไปเปิดโปรแกรมอื่น<img src=n8.png>สถานะ onDestroy เมื่อเลื่อนปัดหน้าจอปิดใช้งานโปรแกรม# basic-android-kotlin-compose-training-dessert-clicker-starter012
- แอพกดเค้ก
+<img src=n1.png># basic-android-kotlin-compose-training-dessert-clicker-starter012
+ แอพกดเค้ก<img src=n2.png>สถานะ onCreate เมื่อเปิดแอพขึ้นมา<img src=n3.png>สถานะ onStart เมื่อเปิดแอพขึ้นมา<img src=n4.png>สถานะ onResume เมื่อเปิดแอพขึ้นมา<img src=n5.png>สถานะ onPause เมื่อออกจากโปรแกรม<img src=n6.png>สถานะ onRestart เมื่อกลับเข้ามาใช้งานแอพเหมือนเดิม<img src=n7.png>สถานะ onStop เมื่อปิดโปรแกรมและไปเปิดโปรแกรมอื่น<img src=n8.png>สถานะ onDestroy เมื่อเลื่อนปัดหน้าจอปิดใช้งานโปรแกรม
